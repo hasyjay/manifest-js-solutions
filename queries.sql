@@ -11,7 +11,7 @@
 
 5. SELECT * FROM teamhassanabdullahi WHERE age BETWEEN 19 AND 25;
 
-6. SELECT * FROM teamhassanabdullahi WHERE DATE_SUB("09-01-2020", INTERVAL 10 DAY); 
+6. SELECT * FROM teamhassanabdullahi WHERE DATE_SUB("09-01-2020", INTERVAL 7 DAY); 
 
 
 7. 
